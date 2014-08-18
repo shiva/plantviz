@@ -7,6 +7,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "puml.js",
+			"settings":
+			{
+				"buffer_size": 34511,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -35,6 +43,7 @@
 	},
 	"file_history":
 	[
+		"/Users/shiva/dev/git/plantumlviz.git/plantumlviz/puml.js",
 		"/Users/shiva/dev/git/plantumlviz.git/plantumlviz/puml.jisonlex"
 	],
 	"find":
@@ -53,6 +62,27 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"parser",
+			"parse",
+			"code",
+			"appl",
+			"nomnoml",
+			"line_ws",
+			"LINE_WS",
+			"terminals_",
+			"return",
+			"COMMENT",
+			"return '",
+			";",
+			"EOL",
+			"EOF",
+			"usecaseIdDefinition",
+			"actorRefOrDef",
+			"actorIdReference",
+			"actorIdDefinition",
+			"private",
+			"arrow",
+			":=",
 			"CHAR",
 			"SIZEOF",
 			"IDENTIFER",
@@ -75,8 +105,39 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "puml.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 34511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3611,
+								3611
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 1691.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -86,7 +147,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -115,7 +176,7 @@
 	{
 		"height": 0.0
 	},
-	"project": "plantumlviz.sublime-project",
+	"project": "plantviz.sublime-project",
 	"replace":
 	{
 		"height": 42.0
